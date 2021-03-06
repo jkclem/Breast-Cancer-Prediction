@@ -10,4 +10,4 @@ We then used PCA to find a lower dimensional representation of the data set and 
 
 Finally, we used cross-validation to select a machine learning classifier and tested its performance on a withheld testing data set.
 
-Improvements to README.md: Better summary and data description.
+The analysis is contained in both the RMD file and the PDF.
